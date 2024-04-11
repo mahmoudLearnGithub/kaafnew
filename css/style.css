@@ -1660,7 +1660,10 @@ nav {
     box-shadow: none;
     background-color: #0e1824;
 }
-
+button.btn.btn-primary.btn-md
+{
+ background-color: #0e1824 !important;
+}
 .progress-bars p {
     line-height: .5;
 }
