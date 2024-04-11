@@ -1091,7 +1091,7 @@ nav {
 }
 
 .navbar-toggle .icon-bar {
-    background-color: #0e1824;
+    background-color: #0e1824 !important;
     display: block;
     width: 22px;
     height: 3px;
@@ -1658,6 +1658,9 @@ nav {
     position: relative;
     border-radius: 3px;
     box-shadow: none;
+    background-color: #0e1824 !important;
+}
+.progress {
     background-color: #0e1824;
 }
 button.btn.btn-primary.btn-md
@@ -3250,6 +3253,10 @@ footer a:hover {
         border-top-left-radius: 0;
         border-bottom-left-radius: 0;
     }
+.progress-bar-tooltip
+{
+ left: 300px !important;
+}
 }
 
 .subscribe-top ::-webkit-input-placeholder {
