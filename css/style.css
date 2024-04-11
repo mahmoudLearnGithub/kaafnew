@@ -3147,6 +3147,10 @@ footer .social-icons li a {
         padding-left: 0px;
         padding-top: 10px;
     }
+.progress-bar-tooltip
+{
+ left: 300px !important;
+}
 }
 
 footer #social-icons li {
@@ -3253,10 +3257,7 @@ footer a:hover {
         border-top-left-radius: 0;
         border-bottom-left-radius: 0;
     }
-.progress-bar-tooltip
-{
- left: 300px !important;
-}
+
 }
 
 .subscribe-top ::-webkit-input-placeholder {
