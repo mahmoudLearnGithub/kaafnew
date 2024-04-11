@@ -1091,6 +1091,7 @@ nav {
 }
 
 .navbar-toggle .icon-bar {
+    background-color: #0e1824;
     display: block;
     width: 22px;
     height: 3px;
